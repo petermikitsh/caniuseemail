@@ -1,0 +1,58 @@
+{
+  "title": "",
+  "description": "",
+  "stats": {
+    "gmail_web": {
+      "latest": "u"
+    },
+    "yahoo_web": {
+      "latest": "u"
+    },
+    "outlook_web": {
+      "latest": "u"
+    },
+    "office365_web": {
+      "latest": "u"
+    },
+    "mail_android": {
+      "7": "u",
+      "6": "u",
+      "5.1": "u",
+      "4.4": "u"
+    },
+    "gmail_android": {
+      "7": "u",
+      "4.4": "u"
+    },
+    "mail_ios": {
+      "10.1": "u",
+      "9": "u",
+      "8": "u",
+      "7": "u"
+    },
+    "outlook_ios": {
+      "10": "u"
+    },
+    "mail_macos": {
+      "10": "u",
+      "9": "u"
+    },
+    "outlook_macos": {
+      "2016": "u",
+      "2011": "u"
+    },
+    "mail_windows": {
+      "10": "u"
+    },
+    "outlook_windows": {
+      "2016": "u",
+      "2013": "u",
+      "2007": "u",
+      "2003": "u",
+      "2002": "u",
+      "2000": "u"
+    }
+  },
+  "notes": {},
+  "keywords": []
+}
